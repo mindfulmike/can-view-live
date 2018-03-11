@@ -20,6 +20,11 @@ var platforms = [/*{
 	platform: 'Windows 10',
 	version: 'latest'
 }, {
+	browserName: 'Browser',
+	'appium-version': '1.7.1',
+	platform: 'Android 7.1',
+	deviceName: 'Android Emulator'
+}, {
 	browserName: 'Safari',
 	'appium-version': '1.7.1',
 	platformName: 'iOS',
