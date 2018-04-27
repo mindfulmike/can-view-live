@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="3.0.9"></a>
+## [3.0.9](https://github.com/canjs/can-view-live/compare/v3.0.8...v3.0.9) (2018-04-27)
+
+
+### Bug Fixes
+
+* fix deps ([e8c55bc](https://github.com/canjs/can-view-live/commit/e8c55bc))
+
+
+
 <a name="3.0.8"></a>
 ## [3.0.8](https://github.com/canjs/can-view-live/compare/v3.0.0...v3.0.8) (2018-04-27)
 
